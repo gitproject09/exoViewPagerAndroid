@@ -3,8 +3,8 @@
 # [Exo View Pager - Android][published url]
 ## Developer: [Sopan Ahmed][instructor url]
 
-Exo View Pager - Android
--------------------------
+Exo View Pager - Android Contains:
+---------------------------------
 
  * Load Image `OK`
  * Play Video in viewpager `OK`
