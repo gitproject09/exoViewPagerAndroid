@@ -1,5 +1,3 @@
-# Exo View Pager - Android
-
 # [Exo View Pager - Android][published url]
 ## Developer: [Sopan Ahmed][instructor url]
 
